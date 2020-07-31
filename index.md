@@ -1,6 +1,4 @@
-# noFrixion: smoothing the payment process
-
-Welcome to noFrixion!
+<h1>Welcome to noFrixion!</h1>
 
 If you are a merchant our technology changes your checkout from !$#* to ahhhh.
 
